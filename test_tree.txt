@@ -1,0 +1,9 @@
+sample-project/
+├── README.md
+├── pyproject.toml
+├── src/
+│   └── sample_project/
+│       ├── __init__.py
+│       └── main.py
+└── tests/
+    └── test_main.py
